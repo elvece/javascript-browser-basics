@@ -1,5 +1,5 @@
 ##JavaScript Browser Basics
-***This repo contains my solutions to the following exercise requirements.***
+***This repo contains my solutions to the following exercise requirements:***
 
 ### Requirements
 
