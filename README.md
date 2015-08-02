@@ -1,7 +1,7 @@
-#JavaScript Browser Basics
+##JavaScript Browser Basics
 This repo contains my solutions to the following exercise requirements.
 
-## Requirements
+### Requirements
 
 1. Create a blank, valid HTML5 document.
 1. Create a JavaScript file
